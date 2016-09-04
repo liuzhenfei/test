@@ -7,4 +7,6 @@ public class Test {
 	private String city = "beijing";
 
 	private int age = 0;
+	
+	private String bbb = "test";
 }
