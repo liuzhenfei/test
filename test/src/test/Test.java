@@ -19,5 +19,7 @@ public class Test {
 	private String eee = "eee";
 
 	private String ffff = "fff";
+	
+	private String ggg = "ggg";
 
 }
