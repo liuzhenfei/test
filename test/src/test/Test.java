@@ -24,5 +24,4 @@ public class Test {
 
 	private String ggg = "ggg";
 
-
 }
