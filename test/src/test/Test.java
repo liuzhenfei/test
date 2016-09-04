@@ -22,4 +22,7 @@ public class Test {
 	
 	private String hhh = "hhh";
 
+	private String ggg = "ggg";
+
+
 }
