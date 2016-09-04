@@ -16,6 +16,8 @@ public class Test {
 	
 	private String ddd = "ddd";
 	
+	private String eee = "eee";
+	
 	private String ffff = "fff";
 
 }
