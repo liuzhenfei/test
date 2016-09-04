@@ -8,5 +8,7 @@ public class Test {
 
 	private int age = 0;
 	
+	private String aaa = "";
+	
 	private String bbb = "test";
 }
