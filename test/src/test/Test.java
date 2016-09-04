@@ -15,5 +15,7 @@ public class Test {
 	private String ccc = "ccc";
 	
 	private String ddd = "ddd";
+	
+	private String ffff = "fff";
 
 }
